@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * CPSC3750 Assignment 1 Programming Part: URL path finder. 
+ * URL path finder. 
  * Author: Albert Anthony Arrieta
  */
 
